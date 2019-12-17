@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Student Bio
+        </title>
+    </head>
+    <body>
+        <h1>Grace Li</h1>
+        <img src="https://www.futurity.org/wp/wp-content/uploads/2019/02/viceroy-butterfly_1600.jpg" alt="I am a happy happy coder" />
+        <title>
+            Contact Info
+        </title>
+        <ul>
+            <li>Email: gracejl10157@gmail.com</li>
+            <li>Github: gracejl10157</li>
+            <li>portfolio: coming soon</li>
+            
+        </ul>
+       
+    </body>
+
+</html>
